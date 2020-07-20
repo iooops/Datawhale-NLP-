@@ -9,7 +9,9 @@
 直接使用TF-IDF对文本提取特征，并使用分类器进行分类。在分类器的选择上，可以使用SVM、LR、或者XGBoost。
 
 [https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html)
+
 [https://scikit-learn.org/stable/modules/svm.html#svm](https://scikit-learn.org/stable/modules/svm.html#svm)
+
 [https://www.kaggle.com/stuarthallows/using-xgboost-with-scikit-learn](https://www.kaggle.com/stuarthallows/using-xgboost-with-scikit-learn)
 
 思路2：FastText
